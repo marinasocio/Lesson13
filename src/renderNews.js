@@ -1,4 +1,5 @@
 import { newsContainer } from './newsContainer';
+import { newsTemplate } from './newsTemplate';
 
 export function renderNews(newsItems) {
 	let fragment = '';

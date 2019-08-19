@@ -26,5 +26,3 @@ function onGetResponse(err, res) {
 
 import { renderNews } from './renderNews';
 import { newsTemplate } from './newsTemplate';
-
-
