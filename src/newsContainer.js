@@ -1,0 +1,1 @@
+export const newsContainer = document.querySelector('.news-container .row'); 
